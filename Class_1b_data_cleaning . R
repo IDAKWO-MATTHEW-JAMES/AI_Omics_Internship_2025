@@ -1,4 +1,4 @@
-getwd()
+
 data<-read.csv(file.choose())
 
 
@@ -37,7 +37,7 @@ class(data$smoker_num)
 
 #convert diagnosis to factor 
 data$diagnosis_fac <- as.factor(data$diagnosis)
-str(data$diagnosis_num)
+str(data_diagnosis_num)
 
 
 
