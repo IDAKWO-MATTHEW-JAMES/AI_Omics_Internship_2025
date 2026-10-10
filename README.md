@@ -1,2 +1,1 @@
-# AI_Omics_Intenship_2025
-This repository will serve as a place to upload my assignment scripts during this internship 
+R scripts and assignments completed during the AI & Omics Internship, covering clinical data preparation and microarray gene expression preprocessing
